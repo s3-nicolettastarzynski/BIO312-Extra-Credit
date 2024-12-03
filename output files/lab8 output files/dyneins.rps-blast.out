@@ -1,0 +1,20 @@
+C.carcharias_dnai4_dynein_intermediate_chain_4_axonemal_isoform_X	808	635	673	1.23e-04	pfam00400, WD40, WD domain, G-beta repeat.  
+C.carcharias_dnai1.2_dynein_axonemal_intermediate_chain_1_paralog	725	554	593	6.32e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+C.mydas_DNAI4_dynein_axonemal_intermediate_chain_4_isoform_X1	841	691	728	5.46e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+C.mydas_DNAI1_dynein_axonemal_intermediate_chain_1_partial	757	585	624	1.28e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+D.rerio_dnai1.2_dynein_axonemal_intermediate_chain_1_paralog_2	660	497	536	1.03e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+E.caballus_DNAI1_dynein_intermediate_chain_1_axonemal_isoform_X3	770	528	567	2.15e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+E.caballus_WDR78_WD_repeatcontaining_protein_78	809	656	693	4.49e-04	pfam00400, WD40, WD domain, G-beta repeat.  
+F.catus_DNAI4_LOW_QUALITY_PROTEIN_dynein_axonemal_intermediate_ch	850	697	734	1.63e-04	pfam00400, WD40, WD domain, G-beta repeat.  
+F.catus_DNAI1_dynein_axonemal_intermediate_chain_1_isoform_X1	699	529	568	9.32e-06	pfam00400, WD40, WD domain, G-beta repeat.  
+F.catus_DNAI1_dynein_axonemal_intermediate_chain_1_isoform_X1	699	622	675	7.66e-04	pfam13829, DUF4191, Domain of unknown function (DUF4191).  
+G.aculeatus_dnai1.2_dynein_axonemal_intermediate_chain_1_paralog_	683	511	550	5.91e-06	pfam00400, WD40, WD domain, G-beta repeat.  
+G.gallus_DNAI1_dynein_axonemal_intermediate_chain_1_isoform_X1	722	543	582	3.02e-06	pfam00400, WD40, WD domain, G-beta repeat.  
+G.gallus_DNAI1_dynein_axonemal_intermediate_chain_1_isoform_X1	722	639	688	2.52e-04	pfam13829, DUF4191, Domain of unknown function (DUF4191).  
+G.gallus_WDR78_dynein_axonemal_intermediate_chain_4	774	623	661	1.88e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+H.sapiens_DNAI4_dynein_axonemal_intermediate_chain_4_isoform_X8	848	695	732	4.22e-04	pfam00400, WD40, WD domain, G-beta repeat.  
+H.sapiens_DNAI1_dynein_axonemal_intermediate_chain_1_isoform_2	703	534	573	2.25e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+S.salar_dnai1.2_dynein_axonemal_intermediate_chain_1_paralog_2	696	525	564	1.30e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+S.townsendi_DNAI4_dynein_axonemal_intermediate_chain_4_isoform_X1	821	670	707	8.54e-05	pfam00400, WD40, WD domain, G-beta repeat.  
+X.laevis_dnai4.S_dynein_axonemal_intermediate_chain_4	742	624	661	2.35e-04	pfam00400, WD40, WD domain, G-beta repeat.  
+X.laevis_dnai1.L_dynein_axonemal_intermediate_chain_1_L_homeolog_	702	520	558	5.13e-05	pfam00400, WD40, WD domain, G-beta repeat.  
